@@ -1,16 +1,15 @@
-## Hi there 👋
+## Julien Robine | Putting data at good use ✊
+#### Data analyst for a left-wing political party 🌹  
 
-<!--
-**r-julienn/r-julienn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught and passionate about data, I continue to learn programming, mathematics, and statistics.  
+I pay attention to put my skills at use for meaningful projects, first in development of sport accessibility, and now for an ecological and social future.  
 
-Here are some ideas to get you started:
+I remain available for any committed project that will spark my curiosity.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ Get in touch on [LinkedIn](https://www.linkedin.com/in/julienrobine/).
+
+* * *
+
+📂 **Currently working on :**
+
+- Neural Networks and Deep Learning
